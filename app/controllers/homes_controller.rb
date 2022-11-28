@@ -3,7 +3,7 @@ class HomesController < ApplicationController
 
   end
 
-  def index
+  def show
 
   end
 end
